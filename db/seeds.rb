@@ -14,3 +14,10 @@ Movie.create(title: "Wonder Woman 1984", overview: "Wonder Woman comes into conf
     poster_url: "https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
     rating: rand(10))
   }
+
+# 100.times {
+
+#   List.create(
+#     :
+#   )
+# }
